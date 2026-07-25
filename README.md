@@ -47,13 +47,42 @@
 
 ### 📌 Proyectos destacados
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🫀 [**Predicción de Riesgo Cardiovascular**](https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular) | Modelo de Machine Learning que predice el riesgo cardiovascular de un paciente a partir de sus datos clínicos. | `Python` |
-| 🏠 [**Simulador de Valor de Vivienda**](https://github.com/kjhincapie6/Prediccion-de-precio-de-casa) | Modelo predictivo que estima el precio de una vivienda a partir de sus características. | `Python` |
-| 📊 [**Dashboard Ejecutivo Automatizado**](https://github.com/kjhincapie6/executive-dashboard) | Dashboard de Business Intelligence automatizado con n8n, HTML e IA para análisis financiero. | `n8n` `HTML` `IA` |
-| 💼 [**CRM de Ventas con Agentes de IA**](https://github.com/kjhincapie6/crm-ventas-somostelser) *(privado)* | CRM de ventas con agentes financieros impulsados por IA, en uso en producción para un cliente real. | `Python` |
-| 🎯 [**Cazador-Oracle-Cloud**](https://github.com/kjhincapie6/Cazador-Oracle-Cloud) | Script de automatización que "caza" cupo de servidores en la nube, reintentando sin descanso hasta conseguirlo. | `PowerShell` |
+<table>
+  <thead>
+    <tr>
+      <th>Proyecto</th>
+      <th>Descripción</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular"><b>Predicción de Riesgo Cardiovascular</b></a></td>
+      <td>Modelo de Machine Learning que predice el riesgo cardiovascular de un paciente a partir de sus datos clínicos.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td>🏠 <a href="https://github.com/kjhincapie6/Prediccion-de-precio-de-casa"><b>Simulador de Valor de Vivienda</b></a></td>
+      <td>Modelo predictivo que estima el precio de una vivienda a partir de sus características.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td>📊 <a href="https://github.com/kjhincapie6/executive-dashboard"><b>Dashboard Ejecutivo Inteligente</b></a></td>
+      <td>Plataforma web para análisis financiero y toma de decisiones, desarrollada con Node.js, n8n y tecnologías web, que integra automatización e inteligencia artificial para optimizar procesos empresariales.</td>
+      <td><code>Node.js</code> <code>n8n</code> <code>IA</code></td>
+    </tr>
+    <tr>
+      <td>💼 <a href="https://github.com/kjhincapie6/crm-ventas-somostelser"><b>CRM de Ventas con Agentes de IA</b></a> <i>(privado)</i></td>
+      <td>CRM de ventas con agentes financieros impulsados por IA, en uso en producción para un cliente real.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a></td>
+      <td>Script de automatización que "caza" cupo de servidores en la nube, reintentando sin descanso hasta conseguirlo.</td>
+      <td><code>PowerShell</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🌱 Actualmente
 
@@ -95,13 +124,42 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 🫀 [**Cardiovascular Risk Prediction**](https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular) | ML model that predicts a patient's cardiovascular risk from clinical data. | `Python` |
-| 🏠 [**Home Value Simulator**](https://github.com/kjhincapie6/Prediccion-de-precio-de-casa) | Predictive model that estimates a home's price from its features. | `Python` |
-| 📊 [**Automated Executive Dashboard**](https://github.com/kjhincapie6/executive-dashboard) | BI dashboard automated with n8n, HTML, and AI for financial analysis. | `n8n` `HTML` `AI` |
-| 💼 [**AI Sales CRM**](https://github.com/kjhincapie6/crm-ventas-somostelser) *(private repo)* | Sales CRM with AI-powered financial agents, live in production for a real client. | `Python` |
-| 🎯 [**Cazador-Oracle-Cloud**](https://github.com/kjhincapie6/Cazador-Oracle-Cloud) | Automation script that "hunts" cloud server capacity, retrying tirelessly until it succeeds. | `PowerShell` |
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular"><b>Cardiovascular Risk Prediction</b></a></td>
+      <td>ML model that predicts a patient's cardiovascular risk from clinical data.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td>🏠 <a href="https://github.com/kjhincapie6/Prediccion-de-precio-de-casa"><b>Home Value Simulator</b></a></td>
+      <td>Predictive model that estimates a home's price from its features.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td>📊 <a href="https://github.com/kjhincapie6/executive-dashboard"><b>Intelligent Executive Dashboard</b></a></td>
+      <td>Web platform for financial analysis and decision-making, built with Node.js, n8n, and web technologies, integrating automation and artificial intelligence to optimize business processes.</td>
+      <td><code>Node.js</code> <code>n8n</code> <code>AI</code></td>
+    </tr>
+    <tr>
+      <td>💼 <a href="https://github.com/kjhincapie6/crm-ventas-somostelser"><b>AI Sales CRM</b></a> <i>(private repo)</i></td>
+      <td>Sales CRM with AI-powered financial agents, live in production for a real client.</td>
+      <td><code>Python</code></td>
+    </tr>
+    <tr>
+      <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a></td>
+      <td>Automation script that "hunts" cloud server capacity, retrying tirelessly until it succeeds.</td>
+      <td><code>PowerShell</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🌱 Currently
 
