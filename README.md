@@ -7,6 +7,7 @@
 **[🇪🇸 Español](#espanol) &nbsp;|&nbsp; [🇬🇧 English](#english)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kely-jhojana-hincapié-zapata-502587130)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573015704518)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kely.hincapie@uniminuto.edu.co)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kjhincapie6)
 
@@ -111,11 +112,6 @@ Strengthening my skills in Artificial Intelligence, Automation, Business Intelli
 ---
 
 <div align="center">
-
-### 📈 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kjhincapie6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kely's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjhincapie6&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 📫 **¿Conectamos? / Let's connect:** [LinkedIn](https://www.linkedin.com/in/kely-jhojana-hincapié-zapata-502587130) · [GitHub](https://github.com/kjhincapie6)
 
