@@ -7,7 +7,6 @@
 **[🇪🇸 Español](#espanol) &nbsp;|&nbsp; [🇬🇧 English](#english)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kely-jhojana-hincapié-zapata-502587130)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573015704518)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kely.hincapie@uniminuto.edu.co)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kjhincapie6)
 
@@ -52,7 +51,7 @@
 | 🫀 [**Predicción de Riesgo Cardiovascular**](https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular) | Modelo de Machine Learning que predice el riesgo cardiovascular de un paciente a partir de sus datos clínicos. | `Python` |
 | 🏠 [**Simulador de Valor de Vivienda**](https://github.com/kjhincapie6/Prediccion-de-precio-de-casa) | Modelo predictivo que estima el precio de una vivienda a partir de sus características. | `Python` |
 | 📊 [**Dashboard Ejecutivo Automatizado**](https://github.com/kjhincapie6/executive-dashboard) | Dashboard de Business Intelligence automatizado con n8n, HTML e IA para análisis financiero. | `n8n` `HTML` `IA` |
-| 💼 **CRM de Ventas con Agentes de IA** *(proyecto privado para cliente real)* | CRM de ventas con agentes financieros impulsados por IA, en uso en producción para un cliente real. | `Python` |
+| 💼 [**CRM de Ventas con Agentes de IA**](https://github.com/kjhincapie6/crm-ventas-somostelser) *(privado)* | CRM de ventas con agentes financieros impulsados por IA, en uso en producción para un cliente real. | `Python` |
 | 🎯 [**Cazador-Oracle-Cloud**](https://github.com/kjhincapie6/Cazador-Oracle-Cloud) | Script de automatización que "caza" cupo de servidores en la nube, reintentando sin descanso hasta conseguirlo. | `PowerShell` |
 
 ### 🌱 Actualmente
@@ -100,7 +99,7 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
 | 🫀 [**Cardiovascular Risk Prediction**](https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular) | ML model that predicts a patient's cardiovascular risk from clinical data. | `Python` |
 | 🏠 [**Home Value Simulator**](https://github.com/kjhincapie6/Prediccion-de-precio-de-casa) | Predictive model that estimates a home's price from its features. | `Python` |
 | 📊 [**Automated Executive Dashboard**](https://github.com/kjhincapie6/executive-dashboard) | BI dashboard automated with n8n, HTML, and AI for financial analysis. | `n8n` `HTML` `AI` |
-| 💼 **AI Sales CRM** *(private client project)* | Sales CRM with AI-powered financial agents, live in production for a real client. | `Python` |
+| 💼 [**AI Sales CRM**](https://github.com/kjhincapie6/crm-ventas-somostelser) *(private repo)* | Sales CRM with AI-powered financial agents, live in production for a real client. | `Python` |
 | 🎯 [**Cazador-Oracle-Cloud**](https://github.com/kjhincapie6/Cazador-Oracle-Cloud) | Automation script that "hunts" cloud server capacity, retrying tirelessly until it succeeds. | `PowerShell` |
 
 ### 🌱 Currently
