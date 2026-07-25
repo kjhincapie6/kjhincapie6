@@ -113,6 +113,11 @@ Strengthening my skills in Artificial Intelligence, Automation, Business Intelli
 
 <div align="center">
 
+### 📈 GitHub Stats
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kjhincapie6&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kely's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjhincapie6&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
 📫 **¿Conectamos? / Let's connect:** [LinkedIn](https://www.linkedin.com/in/kely-jhojana-hincapié-zapata-502587130) · [GitHub](https://github.com/kjhincapie6)
 
 </div>
