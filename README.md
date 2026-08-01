@@ -82,6 +82,11 @@
       <td>Script de automatización que "caza" cupo de servidores en la nube, reintentando sin descanso hasta conseguirlo.</td>
       <td><code>PowerShell</code></td>
     </tr>
+    <tr>
+      <td>📋 <a href="https://github.com/kjhincapie6/Sistema-de-Asistencia-Academica"><b>Sistema de Asistencia Académica</b></a> <i>(privado)</i></td>
+      <td>Plataforma web que reemplaza el llamado a lista por un código QR: el aprendiz lo escanea desde el celular y su asistencia queda registrada al instante, con validación de ubicación por GPS y reportes en Excel para el docente.</td>
+      <td><code>Python</code> <code>FastAPI</code> <code>SQLite</code></td>
+    </tr>
   </tbody>
 </table>
 
@@ -158,6 +163,11 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a> <i>(private repo)</i></td>
       <td>Automation script that "hunts" cloud server capacity, retrying tirelessly until it succeeds.</td>
       <td><code>PowerShell</code></td>
+    </tr>
+    <tr>
+      <td>📋 <a href="https://github.com/kjhincapie6/Sistema-de-Asistencia-Academica"><b>Academic Attendance System</b></a> <i>(private repo)</i></td>
+      <td>Web platform that replaces roll call with a QR code: students scan it from their phone and attendance is recorded instantly, with GPS location validation and Excel reports for the instructor.</td>
+      <td><code>Python</code> <code>FastAPI</code> <code>SQLite</code></td>
     </tr>
   </tbody>
 </table>
