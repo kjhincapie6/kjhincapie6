@@ -58,7 +58,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular"><b>Predicción de Riesgo Cardiovascular</b></a></td>
+      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riesgo-cardiovascular"><b>Predicción de Riesgo Cardiovascular</b></a> <i>(privado)</i></td>
       <td>Modelo de Machine Learning que predice el riesgo cardiovascular de un paciente a partir de sus datos clínicos.</td>
       <td><code>Python</code></td>
     </tr>
@@ -78,7 +78,7 @@
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a></td>
+      <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a> <i>(privado)</i></td>
       <td>Script de automatización que "caza" cupo de servidores en la nube, reintentando sin descanso hasta conseguirlo.</td>
       <td><code>PowerShell</code></td>
     </tr>
@@ -135,7 +135,7 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
   </thead>
   <tbody>
     <tr>
-      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riego-cardiovascular"><b>Cardiovascular Risk Prediction</b></a></td>
+      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riesgo-cardiovascular"><b>Cardiovascular Risk Prediction</b></a> <i>(private repo)</i></td>
       <td>ML model that predicts a patient's cardiovascular risk from clinical data.</td>
       <td><code>Python</code></td>
     </tr>
@@ -155,7 +155,7 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a></td>
+      <td>🎯 <a href="https://github.com/kjhincapie6/Cazador-Oracle-Cloud"><b>Cazador-Oracle-Cloud</b></a> <i>(private repo)</i></td>
       <td>Automation script that "hunts" cloud server capacity, retrying tirelessly until it succeeds.</td>
       <td><code>PowerShell</code></td>
     </tr>
