@@ -95,7 +95,7 @@
     <tr>
       <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
       <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
-      <td><code>PENDIENTE</code></td>
+      <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
     </tr>
   </tbody>
 </table>
@@ -188,7 +188,7 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
     <tr>
       <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
       <td>Enterprise electronic system for the secure management of contracts and confidentiality agreements: digital signatures, document traceability, and intellectual property control.</td>
-      <td><code>PENDIENTE</code></td>
+      <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
     </tr>
   </tbody>
 </table>
