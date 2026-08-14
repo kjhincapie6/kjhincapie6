@@ -88,7 +88,6 @@
       <td><code>Python</code> <code>FastAPI</code> <code>SQLite</code></td>
     </tr>
     <tr>
-      <tr>
       <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(privado)</i></td>
       <td>Evolución del CRM anterior hacia un SaaS B2B: migración completa a PostgreSQL como única fuente de verdad, catálogo y tarifas versionados con Alembic, configurador de Troncal SIP con precios por tramo, descuentos por volumen acumulados por familia, aislamiento de ventas por rol y auditoría trazable de cada cambio de estado.</td>
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
@@ -181,8 +180,19 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td>Web platform that replaces roll call with a QR code: students scan it from their phone and attendance is recorded instantly, with GPS location validation and Excel reports for the instructor.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>SQLite</code></td>
     </tr>
+  <tr>
+      <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(privado)</i></td>
+      <td>EEvolution of the previous CRM into a B2B SaaS: full migration to PostgreSQL as the single source of truth; version-controlled catalogs and rates using Alembic; SIP trunk configurator with tiered pricing; volume discounts aggregated by product family; role-based sales isolation; and traceable auditing of every status change.</td>
+      <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
+    </tr>
+    <tr>
+      <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
+      <td>Enterprise electronic system for the secure management of contracts and confidentiality agreements: digital signatures, document traceability, and intellectual property control.</td>
+      <td><code>PENDIENTE</code></td>
+    </tr>
   </tbody>
 </table>
+ <tr>
 
 ### 🌱 Currently
 
