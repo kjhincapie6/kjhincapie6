@@ -19,7 +19,7 @@
 <a name="espanol"></a>
 ## 🇪🇸 Sobre mí
 
-🎯 Uno formación en **Administración Financiera** con especialización técnica en **Analítica de Datos e Inteligencia Artificial** — eso me permite no solo construir modelos y dashboards, sino traducirlos en decisiones de negocio con impacto real. Me apasiona transformar datos en decisiones estratégicas mediante analítica, IA y automatización.
+🎯 Uno formación en **Administración Financiera** con especialización  en **Analítica de Datos y certificada en  Inteligencia Artificial - Depp Learnig Avanazdo ** — eso me permite no solo construir modelos y dashboards, sino traducirlos en decisiones de negocio con impacto real. Me apasiona transformar datos en decisiones estratégicas mediante analítica, IA y automatización.
 
 ### 🚀 Áreas de especialización
 
