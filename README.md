@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Kely Jhojana Hincapié Zapata
 
-### Especialista en Analítica de Datos & IA · Administradora Financiera · Tecnóloga en Gestión de Redes de Datos
+### Especialista en Analítica de Datos · Administradora Financiera · Tecnóloga en Gestión de Redes de Datos
 
 **[🇪🇸 Español](#espanol) &nbsp;|&nbsp; [🇬🇧 English](#english)**
 
@@ -19,7 +19,7 @@
 <a name="espanol"></a>
 ## 🇪🇸 Sobre mí
 
-🎯 Uno formación en **Administración Financiera** con especialización  en **Analítica de Datos y certificada en  Inteligencia Artificial - Depp Learnig Avanazdo** — eso me permite no solo construir modelos y dashboards, sino traducirlos en decisiones de negocio con impacto real. Me apasiona transformar datos en decisiones estratégicas mediante analítica, IA y automatización.
+🎯 Uno formación en **Administración Financiera** con especialización  en **Analítica de Datos y certificada en  Inteligencia Artificial - Depp Learnig Avanzado** — eso me permite no solo construir modelos y dashboards, sino traducirlos en decisiones de negocio con impacto real. Me apasiona transformar datos en decisiones estratégicas mediante analítica, IA y automatización.
 
 ### 🚀 Áreas de especialización
 
