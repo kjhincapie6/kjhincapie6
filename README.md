@@ -89,6 +89,17 @@
     </tr>
   </tbody>
 </table>
+ <tr>
+      <tr>
+      <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(privado)</i></td>
+      <td>Evolución del CRM anterior hacia un SaaS B2B: migración completa a PostgreSQL como única fuente de verdad, catálogo y tarifas versionados con Alembic, configurador de Troncal SIP con precios por tramo, descuentos por volumen acumulados por familia, aislamiento de ventas por rol y auditoría trazable de cada cambio de estado.</td>
+      <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
+    </tr>
+    <tr>
+      <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
+      <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
+      <td><code>PENDIENTE</code></td>
+    </tr>
 
 ### 🌱 Actualmente
 
