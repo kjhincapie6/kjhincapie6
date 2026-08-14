@@ -87,9 +87,7 @@
       <td>Plataforma web que reemplaza el llamado a lista por un código QR: el aprendiz lo escanea desde el celular y su asistencia queda registrada al instante, con validación de ubicación por GPS y reportes en Excel para el docente.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>SQLite</code></td>
     </tr>
-  </tbody>
-</table>
- <tr>
+    <tr>
       <tr>
       <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(privado)</i></td>
       <td>Evolución del CRM anterior hacia un SaaS B2B: migración completa a PostgreSQL como única fuente de verdad, catálogo y tarifas versionados con Alembic, configurador de Troncal SIP con precios por tramo, descuentos por volumen acumulados por familia, aislamiento de ventas por rol y auditoría trazable de cada cambio de estado.</td>
@@ -101,8 +99,9 @@
       <td><code>PENDIENTE</code></td>
     </tr>
   </tbody>
-  </table>
-   <tr>
+</table>
+ <tr>
+   
 ### 🌱 Actualmente
 
 Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Business Intelligence y desarrollo de soluciones de extremo a extremo basadas en datos.
