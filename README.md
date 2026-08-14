@@ -100,7 +100,9 @@
       <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
       <td><code>PENDIENTE</code></td>
     </tr>
-
+  </tbody>
+  </table>
+   <tr>
 ### 🌱 Actualmente
 
 Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Business Intelligence y desarrollo de soluciones de extremo a extremo basadas en datos.
