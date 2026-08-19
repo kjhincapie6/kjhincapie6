@@ -11,6 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kely.hincapie@uniminuto.edu.co)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kjhincapie6)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kelyhincapie)
+[![Página WEB EVOL-IA](https://img.shields.io/badge/Página_WEB_EVOL--IA-00A0E3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://evolia.com.co/)
 
 </div>
 
