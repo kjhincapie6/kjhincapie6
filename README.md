@@ -99,6 +99,16 @@
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
     <tr>
+      <td>🌐 <a href="https://colombiacontrata.evolia.com.co/"><b>Sitio web — Contratación Laboral Colombiana</b></a></td>
+      <td>Página web pública de la plataforma, orientada a presentar sus herramientas, modalidades de contratación, normativa y servicios para empleadores, trabajadores y contratistas.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+    </tr>
+    <tr>
+      <td>🌐 <a href="https://colombiacontrata.evolia.com.co/"><b>Website — Colombian Labor Contracting</b></a></td>
+      <td>Public website for the platform, presenting its contracting tools, contract modalities, regulations, and services for employers, workers, and contractors.</td>
+      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
+    </tr>
+    <tr>
       <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
       <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
