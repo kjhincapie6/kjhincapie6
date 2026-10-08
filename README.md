@@ -93,6 +93,18 @@
       <td>Evolución del CRM anterior hacia un SaaS B2B: migración completa a PostgreSQL como única fuente de verdad, catálogo y tarifas versionados con Alembic, configurador de Troncal SIP con precios por tramo, descuentos por volumen acumulados por familia, aislamiento de ventas por rol y auditoría trazable de cada cambio de estado.</td>
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
+
+    <tr>
+      <td>🌐 <a href="https://evolia.com.co/"><b>EVOL-IA Website</b></a></td>
+      <td>EVOL-IA corporate website presenting its technology solutions and services.</td>
+      <td><code>Web</code></td>
+    </tr>
+
+    <tr>
+      <td>🌐 <a href="https://evolia.com.co/"><b>Página Web EVOL-IA</b></a></td>
+      <td>Sitio web corporativo de EVOL-IA para presentar sus soluciones y servicios tecnológicos.</td>
+      <td><code>Web</code></td>
+    </tr>
     <tr>
       <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Contratación Laboral Colombiana</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Sitio web</a></td>
       <td>Plataforma orientada a la contratación laboral en Colombia: modalidades contractuales, normativa, generación de documentos, asistente de contratación, controles de seguridad y herramientas de apoyo para empleadores, trabajadores y contratistas.</td>
