@@ -94,6 +94,11 @@
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
     <tr>
+      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Contratación Laboral Colombiana</b></a></td>
+      <td>Plataforma orientada a la contratación laboral en Colombia: modalidades contractuales, normativa, generación de documentos, asistente de contratación, controles de seguridad y herramientas de apoyo para empleadores, trabajadores y contratistas.</td>
+      <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
+    </tr>
+    <tr>
       <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
       <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
@@ -185,6 +190,11 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(privado)</i></td>
       <td>EEvolution of the previous CRM into a B2B SaaS: full migration to PostgreSQL as the single source of truth; version-controlled catalogs and rates using Alembic; SIP trunk configurator with tiered pricing; volume discounts aggregated by product family; role-based sales isolation; and traceable auditing of every status change.</td>
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
+    </tr>
+    <tr>
+      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Colombian Labor Contracting</b></a></td>
+      <td>Platform focused on labor contracting in Colombia: contract modalities, regulations, document generation, contracting assistant, security controls, and tools for employers, workers, and contractors.</td>
+      <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
     <tr>
       <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
