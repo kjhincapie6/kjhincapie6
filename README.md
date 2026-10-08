@@ -93,42 +93,23 @@
       <td>Evolución del CRM anterior hacia un SaaS B2B: migración completa a PostgreSQL como única fuente de verdad, catálogo y tarifas versionados con Alembic, configurador de Troncal SIP con precios por tramo, descuentos por volumen acumulados por familia, aislamiento de ventas por rol y auditoría trazable de cada cambio de estado.</td>
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
-
-    <tr>
-      <td>🌐 <a href="https://evolia.com.co/"><b>EVOL-IA Website</b></a></td>
-      <td>EVOL-IA corporate website presenting its technology solutions and services.</td>
-      <td><code>Web</code></td>
-    </tr>
-
     <tr>
       <td>🌐 <a href="https://evolia.com.co/"><b>Página Web EVOL-IA</b></a></td>
       <td>Sitio web corporativo de EVOL-IA para presentar sus soluciones y servicios tecnológicos.</td>
       <td><code>Web</code></td>
     </tr>
-    <tr>
+<tr>
       <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Contratación Laboral Colombiana</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Sitio web</a></td>
       <td>Plataforma orientada a la contratación laboral en Colombia: modalidades contractuales, normativa, generación de documentos, asistente de contratación, controles de seguridad y herramientas de apoyo para empleadores, trabajadores y contratistas.</td>
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
-    <tr>
-      <td>🌐 <a href="https://colombiacontrata.evolia.com.co/"><b>Sitio web — Contratación Laboral Colombiana</b></a></td>
-      <td>Página web pública de la plataforma, orientada a presentar sus herramientas, modalidades de contratación, normativa y servicios para empleadores, trabajadores y contratistas.</td>
-      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
-    </tr>
-    <tr>
-      <td>🌐 <a href="https://colombiacontrata.evolia.com.co/"><b>Website — Colombian Labor Contracting</b></a></td>
-      <td>Public website for the platform, presenting its contracting tools, contract modalities, regulations, and services for employers, workers, and contractors.</td>
-      <td><code>HTML</code> <code>CSS</code> <code>JavaScript</code></td>
-    </tr>
-    <tr>
+<tr>
       <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
       <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
     </tr>
   </tbody>
 </table>
- <tr>
-   
 ### 🌱 Actualmente
 
 Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Business Intelligence y desarrollo de soluciones de extremo a extremo basadas en datos.
@@ -214,6 +195,11 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
     <tr>
+      <td>🌐 <a href="https://evolia.com.co/"><b>EVOL-IA Website</b></a></td>
+      <td>EVOL-IA corporate website presenting its technology solutions and services.</td>
+      <td><code>Web</code></td>
+    </tr>
+    <tr>
       <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Colombian Labor Contracting</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Website</a></td>
       <td>Platform focused on labor contracting in Colombia: contract modalities, regulations, document generation, contracting assistant, security controls, and tools for employers, workers, and contractors.</td>
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
@@ -225,8 +211,6 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
     </tr>
   </tbody>
 </table>
- <tr>
-
 ### 🌱 Currently
 
 Strengthening my skills in Artificial Intelligence, Automation, Business Intelligence, and end-to-end data-driven solutions.
