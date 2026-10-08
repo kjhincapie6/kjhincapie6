@@ -94,7 +94,7 @@
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
     <tr>
-      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Contratación Laboral Colombiana</b></a></td>
+      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Contratación Laboral Colombiana</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Sitio web</a></td>
       <td>Plataforma orientada a la contratación laboral en Colombia: modalidades contractuales, normativa, generación de documentos, asistente de contratación, controles de seguridad y herramientas de apoyo para empleadores, trabajadores y contratistas.</td>
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
@@ -192,7 +192,7 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
     <tr>
-      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Colombian Labor Contracting</b></a></td>
+      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Colombian Labor Contracting</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Website</a></td>
       <td>Platform focused on labor contracting in Colombia: contract modalities, regulations, document generation, contracting assistant, security controls, and tools for employers, workers, and contractors.</td>
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
