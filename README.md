@@ -20,7 +20,7 @@
 <a name="espanol"></a>
 ## 🇪🇸 Sobre mí
 
-🎯 Uno formación profesional en **Administración Financiera** con especialización  en **Analítica de Datos y certificada en  Inteligencia Artificial - Depp Learnig Avanzado y Ciberseguridad** — eso me permite no solo construir modelos y dashboards, sino traducirlos en decisiones de negocio con impacto real. Me apasiona transformar datos en decisiones estratégicas mediante analítica, IA y automatización.
+🎯 Integro mi formación en **Administración Financiera**, mi especialización en **Analítica de Datos** y mis certificaciones en **Inteligencia Artificial y Deep Learning Avanzado** para convertir datos en información útil y decisiones de negocio. Tengo experiencia en tecnología, análisis financiero, inteligencia de negocios y desarrollo de soluciones digitales. Me interesa aplicar analítica, IA y automatización a retos reales de las organizaciones.
 
 ### 🚀 Áreas de especialización
 
@@ -51,12 +51,7 @@
 
 <table>
   <thead>
-    <tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Stack</th>
-    </tr>
-  </thead>
+    </thead>
   <tbody>
 <tr>
       <td>🌐 <a href="https://evolia.com.co/"><b>Página Web EVOL-IA</b></a></td>
@@ -108,17 +103,7 @@
       <td>Script de automatización que "caza" cupo de servidores en la nube, reintentando sin descanso hasta conseguirlo.</td>
       <td><code>PowerShell</code></td>
     </tr>
-<tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Stack</th>
-    </tr>
-<tr>
-      <th>Proyecto</th>
-      <th>Descripción</th>
-      <th>Stack</th>
-    </tr>
-  </tbody>
+</tbody>
 </table>
 ### 🌱 Actualmente
 
@@ -131,7 +116,7 @@ Cuento con certificaciones en **Inteligencia Artificial y Deep Learning Avanzado
 <a name="english"></a>
 ## 🇬🇧 About Me
 
-🎯 I combine a background in **Financial Administration** with technical specialization in **Data Analytics and Artificial Intelligence** — which lets me not only build models and dashboards, but translate them into real business decisions. I'm passionate about turning data into strategic decisions through analytics, AI, and automation.
+🎯 I combine a background in **Financial Administration**, a specialization in **Data Analytics**, and certifications in **Artificial Intelligence and Advanced Deep Learning** to turn data into actionable insights and business decisions. My experience spans technology, financial analysis, business intelligence, and digital solutions. I am interested in applying analytics, AI, and automation to real organizational challenges.
 
 ### 🚀 Areas of Expertise
 
@@ -162,12 +147,7 @@ Cuento con certificaciones en **Inteligencia Artificial y Deep Learning Avanzado
 
 <table>
   <thead>
-    <tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-    </tr>
-  </thead>
+    </thead>
   <tbody>
 <tr>
       <td>🌐 <a href="https://evolia.com.co/"><b>EVOL-IA Website</b></a></td>
@@ -205,8 +185,8 @@ Cuento con certificaciones en **Inteligencia Artificial y Deep Learning Avanzado
       <td><code>Python</code> <code>FastAPI</code> <code>SQLite</code></td>
     </tr>
 <tr>
-      <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(privado)</i></td>
-      <td>EEvolution of the previous CRM into a B2B SaaS: full migration to PostgreSQL as the single source of truth; version-controlled catalogs and rates using Alembic; SIP trunk configurator with tiered pricing; volume discounts aggregated by product family; role-based sales isolation; and traceable auditing of every status change.</td>
+      <td>🤖 <a href="https://github.com/kjhincapie6/EVOL-IA-CRM"><b>EVOL-IA CRM</b></a> <i>(private repo)</i></td>
+      <td>Evolution of the previous CRM into a B2B SaaS: full migration to PostgreSQL as the single source of truth; version-controlled catalogs and rates using Alembic; SIP trunk configurator with tiered pricing; volume discounts aggregated by product family; role-based sales isolation; and traceable auditing of every status change.</td>
       <td><code>Python</code> <code>Streamlit</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code></td>
     </tr>
 <tr>
@@ -219,17 +199,7 @@ Cuento con certificaciones en **Inteligencia Artificial y Deep Learning Avanzado
       <td>Automation script that "hunts" cloud server capacity, retrying tirelessly until it succeeds.</td>
       <td><code>PowerShell</code></td>
     </tr>
-<tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-    </tr>
-<tr>
-      <th>Project</th>
-      <th>Description</th>
-      <th>Stack</th>
-    </tr>
-  </tbody>
+</tbody>
 </table>
 ### 🌱 Currently
 
