@@ -59,22 +59,22 @@
   </thead>
   <tbody>
     <tr>
-      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riesgo-cardiovascular"><b>Predicción de Riesgo Cardiovascular</b></a> <i>(privado)</i></td>
+      <td>🫀 <a href="https://prediccion-de-riegos-cardiovascular-opy3ra7tebchghc688j5nm.streamlit.app/"><b>Predicción de Riesgo Cardiovascular</b></a> · <a href="https://github.com/kjhincapie6/Prediccion-de-riesgo-cardiovascular">Código fuente</a></td>
       <td>Modelo de Machine Learning que predice el riesgo cardiovascular de un paciente a partir de sus datos clínicos.</td>
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>🏠 <a href="https://github.com/kjhincapie6/Prediccion-de-precio-de-casa"><b>Simulador de Valor de Vivienda</b></a></td>
+      <td>🏠 <a href="https://prediccion-de-precio-de-casa-eeweyhzkqno73qn4tayykj.streamlit.app/"><b>Simulador de Valor de Vivienda</b></a> · <a href="https://github.com/kjhincapie6/Prediccion-de-precio-de-casa">Código fuente</a></td>
       <td>Modelo predictivo que estima el precio de una vivienda a partir de sus características.</td>
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>📊 <a href="https://github.com/kjhincapie6/executive-dashboard"><b>Dashboard Ejecutivo Inteligente</b></a></td>
+      <td>📊 <a href="https://kjhincapie6.github.io/executive-dashboard/"><b>Dashboard Ejecutivo Inteligente</b></a> · <a href="https://github.com/kjhincapie6/executive-dashboard">Código fuente</a></td>
       <td>Plataforma web para análisis financiero y toma de decisiones, desarrollada con Node.js, n8n y tecnologías web, que integra automatización e inteligencia artificial para optimizar procesos empresariales.</td>
       <td><code>Node.js</code> <code>n8n</code> <code>IA</code></td>
     </tr>
     <tr>
-      <td>💼 <a href="https://github.com/kjhincapie6/crm-ventas-somostelser"><b>CRM de Ventas con Agentes de IA</b></a> <i>(privado)</i></td>
+      <td>💼 <a href="https://crm-ventas-somostelser-huk6bp4q2jjtc6fxhaxcu6.streamlit.app/"><b>CRM de Ventas con Agentes de IA</b></a> · <a href="https://github.com/kjhincapie6/crm-ventas-somostelser">Código fuente</a></td>
       <td>CRM de ventas con agentes financieros impulsados por IA, en uso en producción para un cliente real.</td>
       <td><code>Python</code></td>
     </tr>
@@ -99,12 +99,12 @@
       <td><code>Web</code></td>
     </tr>
 <tr>
-      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Contratación Laboral Colombiana</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Sitio web</a></td>
+      <td>⚖️ <a href="https://colombiacontrata.evolia.com.co/"><b>Contratación Laboral Colombiana</b></a> · <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA">Código fuente</a></td>
       <td>Plataforma orientada a la contratación laboral en Colombia: modalidades contractuales, normativa, generación de documentos, asistente de contratación, controles de seguridad y herramientas de apoyo para empleadores, trabajadores y contratistas.</td>
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
 <tr>
-      <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
+      <td>📄 <a href="https://contratos.evolia.com.co/"><b>EVOL-IA Contracts Platform</b></a> · <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform">Código fuente (privado)</a></td>
       <td>Sistema electrónico empresarial para la gestión segura de contratos y acuerdos de confidencialidad: firmas digitales, trazabilidad documental y control de propiedad intelectual.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
     </tr>
@@ -160,22 +160,22 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
   </thead>
   <tbody>
     <tr>
-      <td>🫀 <a href="https://github.com/kjhincapie6/Prediccion-de-riesgo-cardiovascular"><b>Cardiovascular Risk Prediction</b></a> <i>(private repo)</i></td>
+      <td>🫀 <a href="https://prediccion-de-riegos-cardiovascular-opy3ra7tebchghc688j5nm.streamlit.app/"><b>Cardiovascular Risk Prediction</b></a> · <a href="https://github.com/kjhincapie6/Prediccion-de-riesgo-cardiovascular">Source code</a></td>
       <td>ML model that predicts a patient's cardiovascular risk from clinical data.</td>
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>🏠 <a href="https://github.com/kjhincapie6/Prediccion-de-precio-de-casa"><b>Home Value Simulator</b></a></td>
+      <td>🏠 <a href="https://prediccion-de-precio-de-casa-eeweyhzkqno73qn4tayykj.streamlit.app/"><b>Home Value Simulator</b></a> · <a href="https://github.com/kjhincapie6/Prediccion-de-precio-de-casa">Source code</a></td>
       <td>Predictive model that estimates a home's price from its features.</td>
       <td><code>Python</code></td>
     </tr>
     <tr>
-      <td>📊 <a href="https://github.com/kjhincapie6/executive-dashboard"><b>Intelligent Executive Dashboard</b></a></td>
+      <td>📊 <a href="https://kjhincapie6.github.io/executive-dashboard/"><b>Intelligent Executive Dashboard</b></a> · <a href="https://github.com/kjhincapie6/executive-dashboard">Source code</a></td>
       <td>Web platform for financial analysis and decision-making, built with Node.js, n8n, and web technologies, integrating automation and artificial intelligence to optimize business processes.</td>
       <td><code>Node.js</code> <code>n8n</code> <code>AI</code></td>
     </tr>
     <tr>
-      <td>💼 <a href="https://github.com/kjhincapie6/crm-ventas-somostelser"><b>AI Sales CRM</b></a> <i>(private repo)</i></td>
+      <td>💼 <a href="https://crm-ventas-somostelser-huk6bp4q2jjtc6fxhaxcu6.streamlit.app/"><b>AI Sales CRM</b></a> · <a href="https://github.com/kjhincapie6/crm-ventas-somostelser">Source code</a></td>
       <td>Sales CRM with AI-powered financial agents, live in production for a real client.</td>
       <td><code>Python</code></td>
     </tr>
@@ -200,12 +200,12 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
       <td><code>Web</code></td>
     </tr>
     <tr>
-      <td>⚖️ <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA"><b>Colombian Labor Contracting</b></a><br><a href="https://colombiacontrata.evolia.com.co/">🌐 Website</a></td>
+      <td>⚖️ <a href="https://colombiacontrata.evolia.com.co/"><b>Colombian Labor Contracting</b></a> · <a href="https://github.com/kjhincapie6/CONTRATACION-LABORAL-COLOMBIANA">Source code</a></td>
       <td>Platform focused on labor contracting in Colombia: contract modalities, regulations, document generation, contracting assistant, security controls, and tools for employers, workers, and contractors.</td>
       <td><code>JavaScript</code> <code>Node.js</code> <code>Wompi</code> <code>Linux</code></td>
     </tr>
     <tr>
-      <td>📄 <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform"><b>EVOL-IA Contracts Platform</b></a> <i>(privado)</i></td>
+      <td>📄 <a href="https://contratos.evolia.com.co/"><b>EVOL-IA Contracts Platform</b></a> · <a href="https://github.com/kjhincapie6/evol-ia-contracts-platform">Código fuente (privado)</a></td>
       <td>Enterprise electronic system for the secure management of contracts and confidentiality agreements: digital signatures, document traceability, and intellectual property control.</td>
       <td><code>Python</code> <code>FastAPI</code> <code>Jinja2</code> <code>SQLite</code></td>
     </tr>
