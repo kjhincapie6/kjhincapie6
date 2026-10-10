@@ -122,7 +122,7 @@
 </table>
 ### 🌱 Actualmente
 
-Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Business Intelligence y desarrollo de soluciones de extremo a extremo basadas en datos.
+Cuento con certificaciones en **Inteligencia Artificial y Deep Learning Avanzado**. Actualmente estoy ampliando mis conocimientos en **Ciberseguridad e Inglés**, mientras continúo desarrollando soluciones basadas en datos, automatización y Business Intelligence.
 
 <br>
 
@@ -233,7 +233,7 @@ Fortaleciendo mis conocimientos en Inteligencia Artificial, Automatización, Bus
 </table>
 ### 🌱 Currently
 
-Strengthening my skills in Artificial Intelligence, Automation, Business Intelligence, and end-to-end data-driven solutions.
+I hold certifications in **Artificial Intelligence and Advanced Deep Learning**. I am currently expanding my knowledge of **Cybersecurity and English**, while continuing to develop data-driven solutions, automation, and Business Intelligence.
 
 <br>
 
